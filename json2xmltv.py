@@ -21,6 +21,8 @@ def specChar(str):
 
 def writeData(js="", key=""):
     print(js)
+    if js["time"] is None:
+        return
     date = datetime.fromisoformat(js["time"])
     duration = datetime.strptime(js["duration"], '%H:%M:%S')
     with open(fileName, "a") as f:
