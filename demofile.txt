@@ -1,0 +1,74 @@
+<tv generator-info-name="Jir_14 json2xmltv" source-info="https://api.instant.audio/data/playlist/76/energy">
+<channel id="radioenergy">
+<display-name>Radio ENERGY</display-name>
+</channel>
+<programme start="20260718110633 +0000" stop="20260718110933 +0000" channel="radioenergy">
+<title>I'm Every Woman</title>
+<sub-title>
+Whitney Houston
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/8e/62a3fb4eade3648e5ef39bf2aa68c5b650eeb8.jpg</image>
+</programme>
+<programme start="20260718110933 +0000" stop="20260718111233 +0000" channel="radioenergy">
+<title>Love Is All Around</title>
+<sub-title>
+DJ Bobo
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/dd/2b0d7729b2a9390fb885c189a0ac418ff6da56.jpg</image>
+</programme>
+<programme start="20260718111233 +0000" stop="20260718111533 +0000" channel="radioenergy">
+<title>Remember Me</title>
+<sub-title>
+Blue Boy
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/df/f712622a92d722f1e327a3ce2e505e062f13e3.jpg</image>
+</programme>
+<programme start="20260718111533 +0000" stop="20260718111833 +0000" channel="radioenergy">
+<title>Super Gut - Radio Edit</title>
+<sub-title>
+Mo-Do
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/3b/be8e43113532e3c237ae862076097470d67807.jpg</image>
+</programme>
+<programme start="20260718111833 +0000" stop="20260718112133 +0000" channel="radioenergy">
+<title>Please Let Me Know - Long Vocal Version</title>
+<sub-title>
+Ashed Last
+</sub-title>
+<image type="poster"></image>
+</programme>
+<programme start="20260718112133 +0000" stop="20260718112433 +0000" channel="radioenergy">
+<title>Tell The World</title>
+<sub-title>
+Pandora/M-Fuse
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/f1/f44b88fd83f6283ead120bc6a92cef14894354.jpg</image>
+</programme>
+<programme start="20260718112433 +0000" stop="20260718112733 +0000" channel="radioenergy">
+<title>Tango In Harlem</title>
+<sub-title>
+Touch & Go
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/ad/e567796ce0e1a633c8b4c8984403fd67951286.jpg</image>
+</programme>
+<programme start="20260718112733 +0000" stop="20260718113033 +0000" channel="radioenergy">
+<title>Think of You</title>
+<sub-title>
+Whigfield
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/26/80f83ac6b5f3e155db595255f4fa5d35faaa44.jpg</image>
+</programme>
+<programme start="20260718113033 +0000" stop="20260718113333 +0000" channel="radioenergy">
+<title>Rhythm Is A Dancer</title>
+<sub-title>
+Various Artists
+</sub-title>
+<image type="poster"></image>
+</programme>
+<programme start="20260718113333 +0000" stop="20260718113633 +0000" channel="radioenergy">
+<title>Strong Enough</title>
+<sub-title>
+Cher
+</sub-title>
+<image type="poster">https://coverart.instant.audio/images/releases/95/c10a17d792f9130b9517352656951b0514ba14.jpg</image>
+</programme>
