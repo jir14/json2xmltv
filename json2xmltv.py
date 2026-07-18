@@ -14,7 +14,7 @@ def specChar(str):
     str=str.replace('&', '&amp;')
     return str
 
-def writeData(js="", key=""):
+def writeData(js=""):
     if js["time"] is None:
         return
     date = datetime.fromisoformat(js["time"])
