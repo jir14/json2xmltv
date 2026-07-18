@@ -1,7 +1,7 @@
 import requests, json
 from datetime import datetime, timedelta
 
-r = requests.get('https://meta.metacast.eu/?radio=radioenergy&songsNumber=3', headers={'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',  'accept-language': 'cs,sk;q=0.9,en-US;q=0.8,en;q=0.7'})
+r = requests.get('https://meta.metacast.eu/?radio=radioenergy&songsNumber=3', headers={'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'accept-language': 'en-US;q=0.8,en;q=0.7'})
 fileName="radioenergy.xml"
 
 def specChar(str):
