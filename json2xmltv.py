@@ -20,7 +20,7 @@ def writeData(js=""):
     date = datetime.fromisoformat(js["time"])
     duration = datetime.strptime(js["duration"], '%H:%M:%S')
     with open(fileName, "a") as f:
-        f.write('<programme start="'+date.strftime('%Y%m%d%H%M%S')+' -0100" stop="'+(date+timedelta(minutes=duration.minute, seconds=duration.second)).strftime('%Y%m%d%H%M%S')+' -0100" channel="radioenergy">\n')
+        f.write('<programme start="'+date.strftime('%Y%m%d%H%M%S')+' +0300" stop="'+(date+timedelta(minutes=duration.minute, seconds=duration.second)).strftime('%Y%m%d%H%M%S')+' +0300" channel="radioenergy">\n')
         f.write('<title>'+specChar(js["title"])+'</title>\n')
         f.write('<sub-title>\n'+specChar(js["artist"])+'\n</sub-title>\n')
         f.write('<image type="poster">'+specChar(js["image"])+'</image>\n')
