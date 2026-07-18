@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timedelta
 
-r = requests.get('https://api.instant.audio/data/playlist/76/energy')
+r = requests.get('https://api.instant.audio/data/playlist/76/energy', headers={'User-Agent': 'Foo bar'})
 fileName="radioenergy.xml"
 
 json = r.json()
